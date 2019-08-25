@@ -1,8 +1,4 @@
-<?php
-echo date("Y-m-d H:i:s",strtotime("now"));
 
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
