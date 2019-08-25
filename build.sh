@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # Build script for serving static content instead of php files
 echo "Processing";
